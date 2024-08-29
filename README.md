@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @platteXDlol
--    Anime, Manga, Gym
--    Guts
-- 📫 Insta: hocher99
+# About me
 
+Im a coding beginner, i'll use github to upload little projects.😉
 
-
-<!---
-platteXDlol/platteXDlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Intrests beside coding are Gym/sport🏋, gaming🎮, reading (Manga) and watching anime.
+I play "Korbball" in a club.🏀🏆
+I like eating.😋
